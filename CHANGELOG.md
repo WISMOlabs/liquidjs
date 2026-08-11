@@ -1,3 +1,11 @@
+# [10.29.0](https://github.com/harttle/liquidjs/compare/v10.28.0...v10.29.0) (2026-08-11)
+
+
+### Features
+
+* add unregisterFilter method ([#946](https://github.com/harttle/liquidjs/issues/946)) ([69b2c58](https://github.com/harttle/liquidjs/commit/69b2c589f9b69a34427cb8533ddb938bd997914f))
+* **filters:** add squish filter ([#943](https://github.com/harttle/liquidjs/issues/943)) ([875513f](https://github.com/harttle/liquidjs/commit/875513f4c5136bed0c64562cccabb21a7db8d36c))
+
 # [10.28.0](https://github.com/harttle/liquidjs/compare/v10.27.2...v10.28.0) (2026-08-01)
 
 
